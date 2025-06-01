@@ -7,7 +7,7 @@ const navigation = [
     { name: 'HOME', href: '/', current: true },
     { name: 'ABOUT', href: '/pages/about', current: false },
     { name: 'EVENTS', href: '/pages/events', current: false },
-    { name: 'MEMBERS', href: '/pages/members', current: false },
+    { name: 'EXECUTIVE COMMITTEE', href: '/pages/execom', current: false },
     // { name: 'CHAPTERS', href: '/pages/chapters', current: false },
     { name: 'MEMBERSHIP', href: '/pages/membership', current: false },
     { name: 'CONTACT', href: '/pages/contact', current: false },
